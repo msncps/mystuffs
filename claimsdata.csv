@@ -1,0 +1,220 @@
+﻿rowno,member,age,gender,hospital,disease,amount,class
+1,Employee,34,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Blood And Blood-Forming Organs And Certain Disorders Involving The Immune Mechanism,534,Low
+2,SPOUSE,32,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","1,130",Low
+3,SPOUSE,49,FEMALE,Holy Help Hospital,Factors Influencing Health Status And Contact With Health Services,"1,290",Low
+4,Employee,43,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"1,765",Low
+5,SPOUSE,50,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"2,435",Low
+6,Employee,42,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"2,591",Low
+7,Employee,45,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"2,808",Low
+8,SPOUSE,50,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","2,935",Low
+9,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"3,064",Low
+10,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"3,198",Low
+11,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"3,219",Low
+12,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"3,390",Low
+13,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"3,626",Low
+14,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"3,850",Low
+15,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"3,852",Low
+16,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,"Congenital Malformations, Deformations And Chromosomal Abnormalities","3,959",Low
+17,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Respiratory System,"3,959",Low
+18,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"4,072",Low
+19,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"4,110",Low
+20,SPOUSE,24,FEMALE,NC Jindal Institute of Medical Care  and  Research,Certain conditions originating in the perinatal period,"4,132",Low
+21,SON,13,MALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"4,291",Low
+22,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"4,300",Low
+23,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"4,316",Low
+24,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"4,339",Low
+25,DAUGHTER,14,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"4,456",Low
+26,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"4,530",Low
+27,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"5,267",Low
+28,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"5,474",Low
+29,SPOUSE,24,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","5,520",Low
+30,Employee,43,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"5,828",Low
+31,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"6,055",Low
+32,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"6,156",Low
+33,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"6,160",Low
+34,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Respiratory System,"6,172",Low
+35,MOTHER,76,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"6,217",Low
+36,SON,21,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"6,708",Low
+37,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"6,790",Low
+38,Employee,56,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"6,908",Low
+39,SPOUSE,23,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","6,933",Low
+40,MOTHER,60,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"7,290",Low
+41,SON,10,MALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"7,293",Low
+42,DAUGHTER,14,FEMALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"7,414",Low
+43,SPOUSE,52,FEMALE,NC Jindal Institute of Medical Care  and  Research,Neoplasms,"7,607",Low
+44,SPOUSE,49,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"7,830",Low
+45,SPOUSE,38,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"8,088",Low
+46,MOTHER,60,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"8,370",Low
+47,DAUGHTER,3,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Respiratory System,"8,649",Low
+48,SON,5,MALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"8,700",Low
+49,SON,5,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Respiratory System,"8,769",Low
+50,Employee,41,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","8,908",Low
+51,FATHER,81,MALE,OP Jindal Institute of Cancer  and  Research,"Endocrine, Nutritional And Metabolic Diseases","9,242",Low
+52,SPOUSE,31,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"9,786",Low
+53,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"9,872",Low
+54,Employee,45,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"9,930",Low
+55,MOTHER,53,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"10,272",Normal
+56,SPOUSE,29,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"10,314",Normal
+57,SON,13,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"10,413",Normal
+58,MOTHER,66,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"10,453",Normal
+59,SON,10,MALE,NC Jindal Institute of Medical Care  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","10,811",Normal
+60,SON,8,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"10,842",Normal
+61,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"11,160",Normal
+62,MOTHER,72,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"11,380",Normal
+63,SON,10,MALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"11,420",Normal
+64,SPOUSE,50,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","11,567",Normal
+65,SPOUSE,53,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"11,674",Normal
+66,DAUGHTER,12,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","12,098",Normal
+67,Employee,55,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"12,201",Normal
+68,Employee,54,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"12,589",Normal
+69,Employee,33,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"12,867",Normal
+70,SPOUSE,52,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Genitourinary System,"13,107",Normal
+71,MOTHER,57,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","13,261",Normal
+72,Employee,46,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"13,354",Normal
+73,SON,13,MALE,NC Jindal Institute of Medical Care  and  Research,"Injury, Poisoning And Certain Other Consequences Of External Causes","13,467",Normal
+74,FATHER,68,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"14,081",Normal
+75,SPOUSE,31,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"14,256",Normal
+76,SON,10,MALE,NC Jindal Institute of Medical Care  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","14,682",Normal
+77,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"14,884",Normal
+78,SON,15,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","15,059",Normal
+79,SON,18,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","15,424",Normal
+80,DAUGHTER,6,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Respiratory System,"16,401",Normal
+81,MOTHER,76,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"16,466",Normal
+82,Employee,38,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,010",Normal
+83,MOTHER,70,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,098",Normal
+84,SPOUSE,24,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","17,132",Normal
+85,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"17,135",Normal
+86,SON,12,MALE,NC Jindal Institute of Medical Care  and  Research,"Injury, Poisoning And Certain Other Consequences Of External Causes","17,515",Normal
+87,Employee,56,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,600",Normal
+88,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","17,683",Normal
+89,SPOUSE,37,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","17,900",Normal
+90,DAUGHTER,4,FEMALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"17,900",Normal
+91,SPOUSE,33,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","18,000",Normal
+92,DAUGHTER,22,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","18,242",Normal
+93,SPOUSE,31,FEMALE,GURU JAMBHESHWARS MULTISPECIALITY HOSPITAL,"Pregnancy, Childbirth And The Puerperium","18,249",Normal
+94,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"18,579",Normal
+95,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"18,600",Normal
+96,DAUGHTER,16,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Digestive System,"18,637",Normal
+97,Employee,50,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"18,740",Normal
+98,Employee,31,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"18,926",Normal
+99,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"18,931",Normal
+100,Employee,54,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Ear And Mastoid Process,"18,972",Normal
+101,Employee,56,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","19,836",Normal
+102,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"20,346",Normal
+103,Employee,47,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Nervous System,"20,584",Normal
+104,DAUGHTER,19,FEMALE,Amravati Hospital,Certain Infectious And Parasitic Diseases,"20,912",Normal
+105,SON,19,MALE,NC Jindal Institute of Medical Care  and  Research,"Congenital Malformations, Deformations And Chromosomal Abnormalities","21,000",Normal
+106,MOTHER,73,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Respiratory System,"21,012",Normal
+107,SON,17,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"21,178",Normal
+108,Employee,41,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"21,800",Normal
+109,Employee,32,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"23,551",Normal
+110,FATHER,76,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"23,928",Normal
+111,DAUGHTER,14,FEMALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"24,453",Normal
+112,SPOUSE,32,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","24,727",Normal
+113,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"24,884",Normal
+114,SPOUSE,49,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"25,000",Normal
+115,FATHER,63,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,000",Normal
+116,SPOUSE,25,FEMALE,NC Jindal Institute of Medical Care  and  Research,Certain conditions originating in the perinatal period,"25,293",Normal
+117,MOTHER,53,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"25,354",Normal
+118,MOTHER,76,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,542",Normal
+119,SPOUSE,42,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,588",Normal
+120,MOTHER,78,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,666",Normal
+121,MOTHER,74,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Eye And Adnexa,"25,672",Normal
+122,MOTHER,61,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,690",Normal
+123,SON,20,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"25,698",Normal
+124,MOTHER,84,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,808",Normal
+125,MOTHER,56,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"26,118",Normal
+126,Employee,54,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"26,221",Normal
+127,MOTHER,59,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"26,523",Normal
+128,MOTHER,57,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"26,584",Normal
+129,SON,21,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Skin And Subcutaneous Tissue,"26,868",Normal
+130,SPOUSE,52,FEMALE,Life Line Institute of Medical Sciences,Factors Influencing Health Status And Contact With Health Services,"27,000",Normal
+131,SPOUSE,50,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"27,053",Normal
+132,MOTHER,57,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"27,054",Normal
+133,FATHER,76,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"27,393",Normal
+134,MOTHER,66,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"27,590",Normal
+135,SON,11,MALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"27,800",Normal
+136,Employee,54,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"28,024",Normal
+137,MOTHER,63,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"28,131",Normal
+138,SPOUSE,27,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,375",Normal
+139,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"28,393",Normal
+140,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"28,393",Normal
+141,MOTHER,54,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","28,445",Normal
+142,FATHER,79,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"28,490",Normal
+143,MOTHER,63,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","30,000",High
+144,Employee,57,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"30,250",High
+145,FATHER,76,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"30,250",High
+146,SON,21,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"30,279",High
+147,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"30,290",High
+148,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"30,290",High
+149,MOTHER,74,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"31,200",High
+150,SPOUSE,37,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Blood And Blood-Forming Organs And Certain Disorders Involving The Immune Mechanism,"31,300",High
+151,SON,18,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Ear And Mastoid Process,"31,400",High
+152,Employee,39,MALE,OP Jindal Institute of Cancer  and  Research,"Injury, Poisoning And Certain Other Consequences Of External Causes","31,736",High
+153,MOTHER,72,FEMALE,OP Jindal Institute of Cancer  and  Research,"Endocrine, Nutritional And Metabolic Diseases","31,940",High
+154,SON,22,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","32,569",High
+155,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"32,858",High
+156,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"32,858",High
+157,FATHER,71,MALE,Aadhar Health Institute,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","32,891",High
+158,Employee,50,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","32,904",High
+159,MOTHER,62,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified","32,949",High
+160,Employee,38,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"33,300",High
+161,SPOUSE,48,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"33,576",High
+162,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"33,600",High
+163,SPOUSE,36,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"34,500",High
+164,DAUGHTER,19,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"34,626",High
+165,MOTHER,73,FEMALE,Artemis Health Institute,Diseases Of The Digestive System,"35,920",High
+166,SPOUSE,41,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","36,000",High
+167,SPOUSE,25,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","36,000",High
+168,SPOUSE,52,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Respiratory System,"36,061",High
+169,SPOUSE,52,FEMALE,Life Line Institute of Medical Sciences,"Injury, Poisoning And Certain Other Consequences Of External Causes","36,350",High
+170,MOTHER,55,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","36,900",High
+171,Employee,45,MALE,SUKHDA HOSPITAL,Certain Infectious And Parasitic Diseases,"37,234",High
+172,SPOUSE,39,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"37,343",High
+173,FATHER,69,MALE,OP Jindal Institute of Cancer  and  Research,Factors Influencing Health Status And Contact With Health Services,"37,925",High
+174,SPOUSE,24,FEMALE,SIDANA MULTISPECIALITY HOSPITAL,"Pregnancy, Childbirth And The Puerperium","37,998",High
+175,SPOUSE,46,FEMALE,NC Jindal Institute of Medical Care  and  Research,Neoplasms,"38,000",High
+176,DAUGHTER,14,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Digestive System,"38,500",High
+177,SPOUSE,38,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"38,695",High
+178,Employee,50,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"38,827",High
+179,Employee,50,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"38,827",High
+180,SON,13,MALE,Life Line Institute of Medical Sciences,Diseases Of The Respiratory System,"39,000",High
+181,Employee,42,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"39,216",High
+182,SON,11,MALE,NC Jindal Institute of Medical Care  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","42,800",High
+183,FATHER,55,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Respiratory System,"43,100",High
+184,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Respiratory System,"45,908",High
+185,Employee,42,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"46,129",High
+186,SPOUSE,52,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Genitourinary System,"49,242",High
+187,Employee,50,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"49,555",High
+188,Employee,34,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Blood And Blood-Forming Organs And Certain Disorders Involving The Immune Mechanism,"49,650",High
+189,Employee,47,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","50,000",High
+190,Employee,34,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Blood And Blood-Forming Organs And Certain Disorders Involving The Immune Mechanism,"50,184",High
+191,MOTHER,73,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"50,447",High
+192,SPOUSE,52,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"50,465",High
+193,SPOUSE,52,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Genitourinary System,"51,383",High
+194,Employee,54,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Ear And Mastoid Process,"52,052",High
+195,Employee,33,FEMALE,SAVANT HOSPITAL,"Pregnancy, Childbirth And The Puerperium","52,181",High
+196,FATHER,63,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"52,777",High
+197,MOTHER,76,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"54,384",High
+198,SON,18,MALE,OP Jindal Institute of Cancer  and  Research,External Causes Of Morbidity And Mortality,"54,986",High
+199,FATHER,69,MALE,OP Jindal Institute of Cancer  and  Research,"Injury, Poisoning And Certain Other Consequences Of External Causes","55,539",High
+200,Employee,31,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"58,339",High
+201,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"58,600",High
+202,FATHER,76,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"69,000",High
+203,MOTHER,73,FEMALE,Artemis Health Institute,Diseases Of The Digestive System,"69,715",High
+204,MOTHER,69,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"70,900",High
+205,Employee,51,MALE,NC Jindal Institute of Medical Care  and  Research,Certain Infectious And Parasitic Diseases,"71,878",High
+206,SON,17,MALE,OP Jindal Institute of Cancer  and  Research,"Injury, Poisoning And Certain Other Consequences Of External Causes","74,226",High
+207,Employee,44,MALE,NC Jindal Institute of Medical Care  and  Research,"Injury, Poisoning And Certain Other Consequences Of External Causes","79,033",High
+208,FATHER,63,MALE,Dayanand Medical College  and  Hospital,Diseases Of The Circulatory System,"80,294",High
+209,FATHER,69,MALE,OP Jindal Institute of Cancer  and  Research,External Causes Of Morbidity And Mortality,"125,159",High
+210,MOTHER,78,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"131,458",High
+211,FATHER,69,MALE,OP Jindal Institute of Cancer  and  Research,External Causes Of Morbidity And Mortality,"132,029",High
+212,FATHER,68,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"137,660",High
+213,Employee,32,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"151,848",High
+214,MOTHER,60,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"154,305",High
+215,FATHER,66,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"162,677",High
+216,FATHER,71,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"190,716",High
+217,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"203,280",High
+218,MOTHER,60,FEMALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"221,149",High
+219,MOTHER,55,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"343,598",High
