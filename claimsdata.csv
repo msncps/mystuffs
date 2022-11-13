@@ -63,31 +63,31 @@
 63,13-Nov-21,SPOUSE,31,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"9,786",Low
 64,20-Jan-22,MOTHER,53,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"10,272",Normal
 65,29-Jul-22,SPOUSE,29,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"10,314",Normal
-66,09-Nov-21,SON,13,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"10,413",Normal
+66,09-Nov-21,DAUGHTER,13,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"10,413",Normal
 67,10-Apr-22,MOTHER,66,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Circulatory System,"10,453",Normal
 68,08-Jul-22,MOTHER,72,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"11,380",Normal
 69,16-Feb-22,SPOUSE,53,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"11,674",Normal
 70,17-Apr-22,SPOUSE,52,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Genitourinary System,"13,107",Normal
 71,09-Nov-21,MOTHER,57,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","13,261",Normal
-72,10-Aug-22,FATHER,68,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"14,081",Normal
+72,10-Aug-22,MOTHER,68,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"14,081",Normal
 73,20-Jul-22,SPOUSE,31,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"14,256",Normal
-74,29-Mar-22,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"14,884",Normal
+74,29-Mar-22,Employee,34,FEMALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"14,884",Normal
 75,05-Aug-22,MOTHER,76,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"16,466",Normal
-76,07-May-22,Employee,38,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,010",Normal
+76,07-May-22,Employee,38,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,010",Normal
 77,16-Nov-21,MOTHER,70,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,098",Normal
 78,14-Mar-22,SPOUSE,24,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","17,132",Normal
-79,29-Mar-22,Employee,34,MALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"17,135",Normal
-80,11-Sep-22,Employee,56,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,600",Normal
+79,29-Mar-22,Employee,34,FEMALE,Sir Ganga Ram Hospital,Diseases Of The Digestive System,"17,135",Normal
+80,11-Sep-22,Employee,56,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"17,600",Normal
 81,08-Nov-21,MOTHER,65,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","17,683",Normal
 82,10-Mar-22,SPOUSE,37,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","17,900",Normal
 83,05-Jun-22,SPOUSE,33,FEMALE,NC Jindal Institute of Medical Care  and  Research,"Pregnancy, Childbirth And The Puerperium","18,000",Normal
 84,03-Dec-21,SPOUSE,31,FEMALE,GURU JAMBHESHWARS MULTISPECIALITY HOSPITAL,"Pregnancy, Childbirth And The Puerperium","18,249",Normal
 85,17-May-22,FATHER,78,MALE,OP Jindal Institute of Cancer  and  Research,Neoplasms,"18,579",Normal
-86,05-Sep-22,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"18,600",Normal
-87,12-Mar-22,Employee,50,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"18,740",Normal
-88,08-Apr-22,Employee,31,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"18,926",Normal
-89,05-Sep-22,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"18,931",Normal
-90,25-Jan-22,Employee,54,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Ear And Mastoid Process,"18,972",Normal
+86,05-Sep-22,SPOUSE,53,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Genitourinary System,"18,600",Normal
+87,12-Mar-22,SPOUSE,50,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"18,740",Normal
+88,08-Apr-22,SPOUSE,31,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"18,926",Normal
+89,05-Sep-22,SPOUSE,53,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Musculoskeletal System And Connective Tissue,"18,931",Normal
+90,25-Jan-22,SPOUSE,54,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Ear And Mastoid Process,"18,972",Normal
 91,29-Nov-21,Employee,56,MALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","19,836",Normal
 92,06-Feb-22,Employee,53,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Digestive System,"20,346",Normal
 93,16-Feb-22,Employee,47,MALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Nervous System,"20,584",Normal
@@ -106,26 +106,26 @@
 106,05-Apr-22,MOTHER,78,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,666",Normal
 107,18-Nov-21,MOTHER,74,FEMALE,OP Jindal Institute of Cancer  and  Research,Diseases Of The Eye And Adnexa,"25,672",Normal
 108,11-Feb-22,MOTHER,61,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,690",Normal
-109,27-Jul-22,SON,20,MALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"25,698",Normal
+109,27-Jul-22,DAUGHTER,20,FEMALE,OP Jindal Institute of Cancer  and  Research,Certain Infectious And Parasitic Diseases,"25,698",Normal
 110,23-Feb-22,MOTHER,84,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"25,808",Normal
 111,06-Apr-22,MOTHER,56,FEMALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"26,118",Normal
 112,10-Feb-22,Employee,54,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"26,221",Normal
 113,19-Feb-22,MOTHER,59,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"26,523",Normal
 114,24-Mar-22,MOTHER,57,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"26,584",Normal
-115,13-Apr-22,SON,21,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"26,868",Normal
+115,13-Apr-22,DAUGHTER,21,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"26,868",Normal
 116,26-Apr-22,SPOUSE,52,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,000",Normal
 117,09-Dec-21,SPOUSE,50,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,053",Normal
 118,30-Aug-22,MOTHER,57,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,054",Normal
-119,04-Dec-21,FATHER,76,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,393",Normal
+119,04-Dec-21,MOTHER,76,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,393",Normal
 120,24-Jun-22,MOTHER,66,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,590",Normal
-121,03-Sep-22,SON,11,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,800",Normal
+121,03-Sep-22,DAUGHTER,11,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"27,800",Normal
 122,10-Dec-21,Employee,54,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,024",Normal
 123,21-Jan-22,MOTHER,63,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,131",Normal
 124,01-Aug-22,SPOUSE,27,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,375",Normal
 125,29-Mar-22,Employee,34,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,393",Normal
 126,29-Mar-22,Employee,34,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,393",Normal
 127,08-May-22,MOTHER,54,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,445",Normal
-128,20-Jul-22,FATHER,79,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,490",Normal
+128,20-Jul-22,MOTHER,79,FEMALE,Akarsh Gynaecology and Plastic Surgery Centre,Unspecified,"28,490",Normal
 129,31-Aug-22,MOTHER,63,FEMALE,OP Jindal Institute of Cancer  and  Research,"Symptoms, Signs And Abnormal Clinical And Laboratory Findings, Not Elsewhere Classified","30,000",High
 130,18-Jul-22,Employee,57,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"30,250",High
 131,20-Nov-21,FATHER,76,MALE,NC Jindal Institute of Medical Care  and  Research,Diseases Of The Eye And Adnexa,"30,250",High
